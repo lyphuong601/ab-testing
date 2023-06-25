@@ -9,10 +9,7 @@ git clone https://github.com/lyphuong601/ab-testing
 ```
 
 # Contents
-1. [Mobile Gaming App Uswe Retention](#mobile)
 
-
-## Mobile
 
 | Title        | Repository  |
 | ------------- | :-----:|

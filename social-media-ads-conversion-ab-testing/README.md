@@ -17,7 +17,7 @@
 </ul>
 
 ## Conclusion
-- KAG Ads company $\bold{should}$ use the new ads version to increase the click through rate and cost per click.
+- KAG Ads company $\b{should}$ use the new ads version to increase the click through rate and cost per click.
 - In this A/B testing experiement, the MDE is set at 1%. To detect a rise of at least 1% in click-through rate, 509 data points are required for each test and control groups. 
 - Finally, we can figure out for how many days we need to run the test based on daily traffic. In this experiment I will use Extensive Collection Period (Over 10 days). 
 

@@ -20,7 +20,7 @@
 </ul>
 
 ## Conclusion
-- Cookies Cats $\bold{shouldn't}$ switch to the new gate version.
+- Cookies Cats ***shouldn't*** switch to the new gate version.
 - In this A/B testing experiement, the MDE is set at 10% and we need 388 observations per group. 
 - Finally, we can figure out for how many days we need to run the test based on daily traffic. In this experiment I will use Extensive Collection Period (Over 8 days). 
 
